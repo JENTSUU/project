@@ -1,0 +1,38 @@
+{
+  "name": "www.petrussiahaan.com",
+  "short_name": "PetrusSiahaan",
+  "start_url": "https://www.petrussiahaan.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f24a4a",
+  "description": "Petrus Siahaan adalah Blogger Pemula. Tutorial media sosial dan Blogspot, HTML, Javascript, CSS, Template, AdSense, Alexa Booster, Fotografi",
+  "icons": [{
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/48-PetrusSiahaanIconNew.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/72-PetrusSiahaanIconNew.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/96-PetrusSiahaanIconNew.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/144-PetrusSiahaanIconNew.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/168-PetrusSiahaanIconNew.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/192-PetrusSiahaanIconNew.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/512-PetrusSiahaanIconNew.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
