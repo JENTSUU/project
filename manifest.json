@@ -3,8 +3,8 @@
   "short_name": "PetrusSiahaan",
   "start_url": "https://www.petrussiahaan.com/",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#f24a4a",
+  "background_color": "#F2F2F2",
+  "theme_color": "#217E83",
   "description": "Petrus Siahaan adalah Blogger Pemula. Tutorial media sosial dan Blogspot, HTML, Javascript, CSS, Template, AdSense, Alexa Booster, Fotografi",
   "icons": [{
     "src": "https://rawcdn.githack.com/JENTSUU/project/e1a8b759e8a9cb7e168d02bd021a50f0568ddd92/48-PetrusSiahaanIconNew.png",
